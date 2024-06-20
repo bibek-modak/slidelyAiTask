@@ -1,0 +1,30 @@
+[
+  {
+    "name": "John Doe",
+    "email": "johndoe@gmail.com",
+    "phone": "9876543210",
+    "github_link": "https://github.com/john_doe/my_slidely_task",
+    "stopwatch_time": "00:01:19"
+  },
+  {
+    "name": "Jane Smith",
+    "email": "janesmith@gmail.com",
+    "phone": "1234567890",
+    "github_link": "https://github.com/jane_smith/my_slidely_task",
+    "stopwatch_time": "00:02:30"
+  },
+  {
+    "name": "mm",
+    "email": "m",
+    "phone": "m",
+    "github_link": "m",
+    "stopwatch_time": "444"
+  },
+  {
+    "name": "j",
+    "email": "j",
+    "phone": "j",
+    "github_link": "j",
+    "stopwatch_time": "4"
+  }
+]
