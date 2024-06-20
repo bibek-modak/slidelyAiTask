@@ -1,0 +1,15 @@
+D:\Projects\slidely-frontend\slidelyfrontend\slidelyfrontend\bin\Debug\slidelyfrontend.exe
+D:\Projects\slidely-frontend\slidelyfrontend\slidelyfrontend\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\slidely-frontend\slidelyfrontend\slidelyfrontend\bin\Debug\slidelyfrontend.exe.config
+D:\Projects\slidely-frontend\slidelyfrontend\slidelyfrontend\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\slidely-frontend\slidelyfrontend\slidelyfrontend\obj\Debug\slidelyfrontend.csproj.AssemblyReference.cache
+D:\Projects\slidely-frontend\slidelyfrontend\slidelyfrontend\obj\Debug\SlidelyFormApp.CreateSubmissionForm.resources
+D:\Projects\slidely-frontend\slidelyfrontend\slidelyfrontend\obj\Debug\SlidelyFormApp.Form1.resources
+D:\Projects\slidely-frontend\slidelyfrontend\slidelyfrontend\obj\Debug\slidelyfrontend.Properties.Resources.resources
+D:\Projects\slidely-frontend\slidelyfrontend\slidelyfrontend\obj\Debug\SlidelyFormApp.ViewSubmissionsForm.resources
+D:\Projects\slidely-frontend\slidelyfrontend\slidelyfrontend\obj\Debug\slidelyfrontend.csproj.GenerateResource.cache
+D:\Projects\slidely-frontend\slidelyfrontend\slidelyfrontend\obj\Debug\slidelyfrontend.csproj.CoreCompileInputs.cache
+D:\Projects\slidely-frontend\slidelyfrontend\slidelyfrontend\obj\Debug\slidelyf.DEFCF757.Up2Date
+D:\Projects\slidely-frontend\slidelyfrontend\slidelyfrontend\obj\Debug\slidelyfrontend.exe
+D:\Projects\slidely-frontend\slidelyfrontend\slidelyfrontend\obj\Debug\slidelyfrontend.pdb
+D:\Projects\slidely-frontend\slidelyfrontend\slidelyfrontend\obj\Debug\slidelyfrontend.Form1.resources
